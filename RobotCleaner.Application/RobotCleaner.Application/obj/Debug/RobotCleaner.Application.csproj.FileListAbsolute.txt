@@ -1,0 +1,8 @@
+c:\users\atif\documents\visual studio 2015\Projects\RobotCleaner.Application\RobotCleaner.Application\bin\Debug\RobotCleaner.Application.exe.config
+c:\users\atif\documents\visual studio 2015\Projects\RobotCleaner.Application\RobotCleaner.Application\bin\Debug\RobotCleaner.Application.exe
+c:\users\atif\documents\visual studio 2015\Projects\RobotCleaner.Application\RobotCleaner.Application\bin\Debug\RobotCleaner.Application.pdb
+c:\users\atif\documents\visual studio 2015\Projects\RobotCleaner.Application\RobotCleaner.Application\bin\Debug\RobotCleaner.Entity.dll
+c:\users\atif\documents\visual studio 2015\Projects\RobotCleaner.Application\RobotCleaner.Application\bin\Debug\RobotCleaner.Entity.pdb
+c:\users\atif\documents\visual studio 2015\Projects\RobotCleaner.Application\RobotCleaner.Application\obj\Debug\RobotCleaner.Application.csprojResolveAssemblyReference.cache
+c:\users\atif\documents\visual studio 2015\Projects\RobotCleaner.Application\RobotCleaner.Application\obj\Debug\RobotCleaner.Application.exe
+c:\users\atif\documents\visual studio 2015\Projects\RobotCleaner.Application\RobotCleaner.Application\obj\Debug\RobotCleaner.Application.pdb
